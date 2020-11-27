@@ -1,0 +1,166 @@
+/* resets */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  
+  font-variant: small-caps;
+  letter-spacing: 0.2em;
+  text-align: center;
+}
+
+
+h1 {
+  margin-top: 2rem;
+  font-size: 3rem;
+  text-shadow: 0px 5px 5px #888888;
+}
+
+p {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  font-size: 1.5rem;;
+  color: grey;
+}
+
+/* customer card*/
+.card {
+  text-align: center;
+
+  width: 70ch;
+  
+  margin: 4rem auto;
+
+  background-color: orange;
+  padding: 1rem;
+
+  border: 2px solid orange;
+  border-radius: 2px;
+}
+
+.information {
+  background-color: white;
+
+  padding: 0.5rem;
+
+  margin-top: 2rem;
+
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+
+/* table style */
+
+table, th, td {
+  border: 1px solid orange;
+  border-collapse: collapse;
+}
+
+table {
+  margin: auto;
+  font-size: 1.8rem;
+}
+
+
+/* link style*/
+a:link { 
+  text-decoration: none;
+}
+
+a:active { 
+  text-decoration:blink
+}
+
+a:hover { 
+  text-decoration:underline;
+  color: orange;
+}
+
+/* card style*/
+.card {
+  background-color: orange;
+
+  width: 50ch;
+  text-align: left;
+
+  margin: 2rem, auto;
+
+  padding: 1rem 1.5rem 1rem 1.5rem;
+
+  font-size: 2rem;
+
+  box-shadow: 5px 8px 8px grey;
+}
+
+.card li{
+  list-style-type: none;
+}
+
+/* button style*/
+button {
+  border: 1px solid orange;
+  border-radius: 6%;
+
+  margin-top: 0.8em;
+  padding: 15px 20px;
+  
+  background-color: white;
+
+  font-size: 1.5rem;
+
+  align-self: flex-start;
+  
+  color: black;
+
+  box-shadow: 5px 8px 8px grey;
+}
+
+/* flex for nav on a container */
+nav {
+  display: flex;
+  background-color: orange;
+}
+
+/* LOGO */
+nav .logo {
+  width: 50px;
+  max-height: 50px;
+}
+
+/* sticky footer */
+footer {
+  background: orange;
+  color: black;
+
+  text-align: center;
+
+  margin-top: 2rem;
+}
+
+footer p {
+  color: black;
+}
+
+/* Media Queries*/
+@media screen and (max-width: 600px){
+  main * {
+    width: 100%;
+    font-size: 0.5rem;
+  }
+}
