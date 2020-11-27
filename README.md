@@ -2,6 +2,7 @@
 
 by  Lynn Chen     Nov,27,2020
 
+
 ## Webpage 
 GH repo: 
 https://github.com/yanlinchen1985/cpnt200-a2
@@ -13,17 +14,16 @@ https://github.com/yanlinchen1985/cpnt200-a2
 Thanks for my groupmates [Michael Mardel](https://github.com/aggressiveperfector)  and [Vincent Miranda](https://github.com/vinceldric)  who help me to review code and fix issue.
 
 some code come from Tony's sample code in class  [SAIT WBDV](https://sait-wbdv.github.io/)
-
 https://github.com/sait-wbdv/php-in-class
-
 https://github.com/sait-wbdv/php-in-class/tree/main/week11f/rentals
 
 
 
-Making <table> in HTML: https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/table 
-                                         
-                                         https://www.cnblogs.com/lxwphp/p/10077441.html
-
+Making <table> in HTML: https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/table    
+https://www.cnblogs.com/lxwphp/p/10077441.html
+                        
+                                     
+                                    
 
 ## Comments
 
