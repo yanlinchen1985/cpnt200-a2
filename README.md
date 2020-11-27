@@ -2,6 +2,10 @@
 
 by  Lynn Chen     Nov,27,2020
 
+## Webpage 
+GH repo: 
+https://github.com/yanlinchen1985/cpnt200-a2
+
 
 
 ## Attributions
@@ -15,13 +19,6 @@ https://github.com/sait-wbdv/php-in-class/tree/main/week11f/rentals
 
 Making table in HTML: https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/table 
                                          https://www.cnblogs.com/lxwphp/p/10077441.html
-
-
-
-## Webpage 
-GH repo: 
-https://yanlinchen1985.github.io/cpnt200-a2/
-
 
 
 ## Comments
