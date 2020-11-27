@@ -31,4 +31,3 @@ Compared with the first assignment, this assignment is more challenging. In the 
 The other thing I need to mention is I tried to use <table> in html instead of using grid in CSS to list the customers' information,but it seems that I had the similar numbers of "<th> and <tr>", which makes my table seems werid. If I put "<php>" in different line to fix it, the table was broken. In order to fix this issue, I tried to build two tables to put the table header and information from database. I do not know whether it is right, but it looks better than before. XD 
 
 Thank you for teaching.
-
