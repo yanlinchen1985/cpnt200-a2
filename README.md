@@ -28,6 +28,6 @@ https://www.cnblogs.com/lxwphp/p/10077441.html
 
 Compared with the first assignment, this assignment is more challenging. In the beginning, I could only show a list of customers from the aviano-db and show a single customer that corresponse to id by getting the data from aviano-db database. However, I could not show the error page if there is a database connection error. Then I tried another way from Vincent who told me I might fix it by using partials and if statement. 
 
-The other thing I need to mention is I tried to use ‘<table>’in html instead of using grid in CSS to list the customers' information,but it seems that I had the similar numbers of "<th> and <tr>", which makes my table seems werid. If I put "<php>" in different line to fix it, the table was broken. In order to fix this issue, I tried to build two tables to put the table header and information from database. I do not know whether it is right, but it looks better than before. XD 
+The other thing I need to mention is I tried to use table tag in html instead of using grid in CSS to list the customers' information,but it seems that I had the similar numbers of th and tr, which makes my table seems werid. If I put php in different line to fix it, the table was broken. In order to fix this issue, I tried to build two tables to put the table header and information from database. I do not know whether it is right, but it looks better than before. XD 
 
 Thank you for teaching.
